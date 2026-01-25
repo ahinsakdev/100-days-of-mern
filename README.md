@@ -32,6 +32,10 @@ Each day contains:
 ## 📁 Daily Progress
 
 - Day 01 – JavaScript Foundations
+- Day 02: JavaScript control flow and loop fundamentals
+- Day 03: Functions, scope, and execution flow in JavaScript
+- Day 04: JavaScript arrays and core array methods
+- Day 05: JavaScript objects and real-world data modeling
 *(Updating daily)*
 
 ---
