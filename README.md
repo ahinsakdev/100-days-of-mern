@@ -36,6 +36,7 @@ Each day contains:
 - Day 03: Functions, scope, and execution flow in JavaScript
 - Day 04: JavaScript arrays and core array methods
 - Day 05: JavaScript objects and real-world data modeling
+- Day 06 – Array Methods (map, filter, reduce)
 *(Updating daily)*
 
 ---
