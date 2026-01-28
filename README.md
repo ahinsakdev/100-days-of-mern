@@ -37,6 +37,7 @@ Each day contains:
 - Day 04: JavaScript arrays and core array methods
 - Day 05: JavaScript objects and real-world data modeling
 - Day 06 – Array Methods (map, filter, reduce)
+- Day 07: ES6 destructuring, spread and rest operators
 *(Updating daily)*
 
 ---
