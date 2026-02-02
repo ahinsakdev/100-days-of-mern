@@ -29,6 +29,22 @@ Each day contains:
 
 ---
 
+## 📂 Code Repositories
+
+All actual code and practice live in separate repositories:
+
+- 🔹 JavaScript Fundamentals  
+  👉 https://github.com/ahinsak215/javascript-core
+
+- 🔹 React Projects (coming soon)  
+  👉 https://github.com/ahinsak215/react-projects
+
+- 🔹 Backend & APIs (coming soon)  
+  👉 https://github.com/ahinsak215/node-rest-api
+
+- 🔹 Full MERN Projects (coming soon)  
+  👉 Will be added during later phases
+
 ## 📁 Daily Progress
 
 - Day 01 – JavaScript Foundations
