@@ -54,6 +54,12 @@ All actual code and practice live in separate repositories:
 - Day 05: JavaScript objects and real-world data modeling
 - Day 06 – Array Methods (map, filter, reduce)
 - Day 07: ES6 destructuring, spread and rest operators
+- Day 08: Hoisting, closures and execution context
+- Day 09: Callbacks, Promises and async/await
+- Day 10: HTTP basics and Fetch API
+- Day 11: Event loop, JS runtime and browser APIs
+- Day 12: DOM selection and manipulation
+- Day 13: DOM events and user interaction
 *(Updating daily)*
 
 ---
