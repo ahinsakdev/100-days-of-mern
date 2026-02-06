@@ -9,6 +9,23 @@ through hands-on coding.
 
 ---
 
+## Status Update
+✅ JavaScript Fundamentals Completed (Day 1–15)  
+⏭️ React starts from Day 16
+
+
+## 🚀 Featured Project
+
+### 📝 Todo App (Vanilla JavaScript)
+A mini project built using plain JavaScript to practice:
+- DOM manipulation
+- Event handling
+- Array & object based state
+- UI rendering from data
+
+👉 https://github.com/ahinsak215/js-todo-app
+
+
 ## 🗓 Journey Structure
 
 Each day contains:
@@ -36,6 +53,9 @@ All actual code and practice live in separate repositories:
 - 🔹 JavaScript Fundamentals  
   👉 https://github.com/ahinsak215/javascript-core
 
+- 🔹 Mini JavaScript Project – Todo App  
+  👉 https://github.com/ahinsak215/js-todo-app
+
 - 🔹 React Projects (coming soon)  
   👉 https://github.com/ahinsak215/react-projects
 
@@ -60,6 +80,8 @@ All actual code and practice live in separate repositories:
 - Day 11: Event loop, JS runtime and browser APIs
 - Day 12: DOM selection and manipulation
 - Day 13: DOM events and user interaction
+- Day 14: Mini JavaScript Project – Todo App (Vanilla JS)
+- Day 15: JavaScript consolidation and GitHub cleanup
 *(Updating daily)*
 
 ---
