@@ -82,6 +82,8 @@ All actual code and practice live in separate repositories:
 - Day 13: DOM events and user interaction
 - Day 14: Mini JavaScript Project – Todo App (Vanilla JS)
 - Day 15: JavaScript consolidation and GitHub cleanup
+- Day 16: React fundamentals
+- Day 17: React components and props (conceptual)
 *(Updating daily)*
 
 ---
