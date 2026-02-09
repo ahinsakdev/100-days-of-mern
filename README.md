@@ -84,6 +84,7 @@ All actual code and practice live in separate repositories:
 - Day 15: JavaScript consolidation and GitHub cleanup
 - Day 16: React fundamentals
 - Day 17: React components and props (conceptual)
+- Day 18: React state and useState (conceptual)
 *(Updating daily)*
 
 ---
