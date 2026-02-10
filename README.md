@@ -85,6 +85,7 @@ All actual code and practice live in separate repositories:
 - Day 16: React fundamentals
 - Day 17: React components and props (conceptual)
 - Day 18: React state and useState (conceptual)
+- Day 19: React events and state updates
 *(Updating daily)*
 
 ---
