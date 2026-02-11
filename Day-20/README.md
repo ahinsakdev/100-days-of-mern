@@ -17,7 +17,7 @@
 
 ## Array State Updates
 - Add items using spread
-- Remove items using filter
+- Remove items using filter method
 - Update items using map
 
 ## Functional State Updates
