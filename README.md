@@ -88,6 +88,7 @@ All actual code and practice live in separate repositories:
 - Day 19: React events and state updates
 - Day 20: React state with objects and arrays (immutability)
 - Day 21: Conditional rendering and lists in React
+- Day 22: Controlled components and forms in React
 *(Updating daily)*
 
 ---
