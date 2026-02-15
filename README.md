@@ -89,6 +89,8 @@ All actual code and practice live in separate repositories:
 - Day 20: React state with objects and arrays (immutability)
 - Day 21: Conditional rendering and lists in React
 - Day 22: Controlled components and forms in React
+- Day 23: Setup React Task Manager structure
+- Day 24: Lifted todos state to App and wired props
 *(Updating daily)*
 
 ---
