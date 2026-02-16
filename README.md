@@ -10,8 +10,8 @@ through hands-on coding.
 ---
 
 ## Status Update
-✅ JavaScript Fundamentals Completed (Day 1–15)  
-⏭️ React starts from Day 16
+✅ JavaScript Fundamentals Completed (Day 1–15)
+✅ React Fundamentals Completed (Day 16–22)
 
 
 ## 🚀 Featured Project
@@ -53,7 +53,7 @@ All actual code and practice live in separate repositories:
 - 🔹 JavaScript Fundamentals  
   👉 https://github.com/ahinsak215/javascript-core
 
-- 🔹 Mini JavaScript Project – Todo App  
+- 🔹 Mini JavaScript Project – Todo App
   👉 https://github.com/ahinsak215/js-todo-app
 
 - 🔹 React Projects (coming soon)  
@@ -91,6 +91,7 @@ All actual code and practice live in separate repositories:
 - Day 22: Controlled components and forms in React
 - Day 23: Setup React Task Manager structure
 - Day 24: Lifted todos state to App and wired props
+- Day 25: Render todo list with toggle and delete
 *(Updating daily)*
 
 ---
