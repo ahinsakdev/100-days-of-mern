@@ -92,6 +92,7 @@ All actual code and practice live in separate repositories:
 - Day 23: Setup React Task Manager structure
 - Day 24: Lifted todos state to App and wired props
 - Day 25: Render todo list with toggle and delete
+- Day 26: Added filters and inline edit in React
 *(Updating daily)*
 
 ---
