@@ -93,6 +93,7 @@ All actual code and practice live in separate repositories:
 - Day 24: Lifted todos state to App and wired props
 - Day 25: Render todo list with toggle and delete
 - Day 26: Added filters and inline edit in React
+- Day 27: Added persistence, animations, and final polish
 *(Updating daily)*
 
 ---
