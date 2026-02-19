@@ -25,6 +25,22 @@ A mini project built using plain JavaScript to practice:
 
 👉 https://github.com/ahinsak215/js-todo-app
 
+### ⚛️ Task Manager App (React)
+
+A small project built using React to strengthen my understanding of:
+
+- Component-based architecture  
+- Managing state with `useState`  
+- Persisting data using `useEffect` and localStorage  
+- Passing data through props  
+- Controlled form inputs  
+- Rendering UI directly from application state  
+
+This project helped me clearly understand how React re-renders the UI automatically whenever the state changes.
+
+👉 https://github.com/ahinsak215/react-task-manager
+
+
 
 ## 🗓 Journey Structure
 
@@ -55,6 +71,9 @@ All actual code and practice live in separate repositories:
 
 - 🔹 Mini JavaScript Project – Todo App
   👉 https://github.com/ahinsak215/js-todo-app
+
+- 🔹 React Project – Task Manager App
+  👉 https://github.com/ahinsak215/react-task-manager
 
 - 🔹 React Projects (coming soon)  
   👉 https://github.com/ahinsak215/react-projects
