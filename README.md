@@ -12,6 +12,7 @@ through hands-on coding.
 ## Status Update
 ✅ JavaScript Fundamentals Completed (Day 1–15)
 ✅ React Fundamentals Completed (Day 16–22)
+✅ React Task Manager App Completed (Day 23–27)
 
 
 ## 🚀 Featured Project
@@ -113,6 +114,7 @@ All actual code and practice live in separate repositories:
 - Day 25: Render todo list with toggle and delete
 - Day 26: Added filters and inline edit in React
 - Day 27: Added persistence, animations, and final polish
+- Day 28: Node fundamentals and basic HTTP server
 *(Updating daily)*
 
 ---
