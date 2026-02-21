@@ -115,6 +115,7 @@ All actual code and practice live in separate repositories:
 - Day 26: Added filters and inline edit in React
 - Day 27: Added persistence, animations, and final polish
 - Day 28: Node fundamentals and basic HTTP server
+- Day 29: HTTP fundamentals and manual routing
 *(Updating daily)*
 
 ---
