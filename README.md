@@ -116,6 +116,7 @@ All actual code and practice live in separate repositories:
 - Day 27: Added persistence, animations, and final polish
 - Day 28: Node fundamentals and basic HTTP server
 - Day 29: HTTP fundamentals and manual routing
+- Day 30: JSON response and manual POST body parsing
 *(Updating daily)*
 
 ---
