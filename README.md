@@ -117,6 +117,7 @@ All actual code and practice live in separate repositories:
 - Day 28: Node fundamentals and basic HTTP server
 - Day 29: HTTP fundamentals and manual routing
 - Day 30: JSON response and manual POST body parsing
+- Day 31: Express introduction and routing
 *(Updating daily)*
 
 ---
