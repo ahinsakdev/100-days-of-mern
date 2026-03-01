@@ -13,6 +13,7 @@ through hands-on coding.
 ✅ JavaScript Fundamentals Completed (Day 1–15)
 ✅ React Fundamentals Completed (Day 16–22)
 ✅ React Task Manager App Completed (Day 23–27)
+✅ Node Fundamentals Completed (Day 28–35)
 
 
 ## 🚀 Featured Project
@@ -118,6 +119,10 @@ All actual code and practice live in separate repositories:
 - Day 29: HTTP fundamentals and manual routing
 - Day 30: JSON response and manual POST body parsing
 - Day 31: Express introduction and routing
+- Day 32: Setup Express server with routing and JSON middleware
+- Day 33: Refactored backend using Express Router and controller structure
+- Day 34: Implemented custom middleware and centralized error handling
+- Day 35: Added async controllers with centralized error handling pattern
 *(Updating daily)*
 
 ---
