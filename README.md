@@ -10,11 +10,14 @@ through hands-on coding.
 ---
 
 ## Status Update
-✅ JavaScript Fundamentals Completed (Day 1–15)
-✅ React Fundamentals Completed (Day 16–22)
-✅ React Task Manager App Completed (Day 23–27)
-✅ Node Fundamentals Completed (Day 28–35)
-
+- ✅ JavaScript Fundamentals Completed (Day 1–15)
+- ✅ React Fundamentals Completed (Day 16–22)
+- ✅ React Task Manager App Completed (Day 23–27)
+- ✅ Node Fundamentals Completed (Day 28–35)
+- ✅ MongoDB Fundamentals Completed (Day 36-42)
+- ✅ Tailwindcss Fundamentals Completed (Day 43-49)
+- ✅ TypeScript Fundamentals Completed (Day 50–56)
+- ✅ Revision Phase Completed (Day 57–70)
 
 ## 🚀 Featured Project
 
@@ -123,6 +126,11 @@ All actual code and practice live in separate repositories:
 - Day 33: Refactored backend using Express Router and controller structure
 - Day 34: Implemented custom middleware and centralized error handling
 - Day 35: Added async controllers with centralized error handling pattern
+- Day 36-42: MongoDB Fundamentals Completed
+- Day 43-49: Tailwindcss Fundamentals Completed
+- Day 50-56: TypeScript Fundamentals Completed
+- Day 57-70: Practice & Revision
+
 *(Updating daily)*
 
 ---
