@@ -37,7 +37,7 @@ A mini project built using plain JavaScript to practice:
 - Array & object based state  
 - UI rendering from data  
 
-👉 https://github.com/ahinsak215/js-todo-app
+👉 https://github.com/ahinsakdev/js-todo-app
 
 ### ⚛️ Task Manager App (React)
 
@@ -52,7 +52,7 @@ A practice project built using React to strengthen my understanding of:
 
 This project helped me clearly understand how React re-renders the UI automatically whenever the state changes.
 
-👉 https://github.com/ahinsak215/react-task-manager
+👉 https://github.com/ahinsakdev/react-task-manager
 
 ---
 
@@ -82,13 +82,13 @@ Most of my work during this journey focused on building strong fundamentals.
 I’ve documented my practice and learning across these repositories:
 
 - 🔹 JavaScript Fundamentals  
-  👉 https://github.com/ahinsak215/javascript-core  
+  👉 https://github.com/ahinsakdev/javascript-core  
 
 - 🔹 Mini JavaScript Project – Todo App  
-  👉 https://github.com/ahinsak215/js-todo-app  
+  👉 https://github.com/ahinsakdev/js-todo-app  
 
 - 🔹 React Project – Task Manager App  
-  👉 https://github.com/ahinsak215/react-task-manager  
+  👉 https://github.com/ahinsakdev/react-task-manager  
 
 ---
 
@@ -172,5 +172,5 @@ This repository reflects both my work and my learning process.
 
 ## 🔗 Connect
 
-- GitHub: https://github.com/ahinsak215  
-- LinkedIn: https://linkedin.com/in/ahinsak215  
+- GitHub: https://github.com/ahinsakdev  
+- LinkedIn: https://linkedin.com/in/ahinsakdev
